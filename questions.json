@@ -1,0 +1,277 @@
+{
+  "heading": "G6_Formatting(MCQs)",
+  "topics": [
+    {
+      "heading": "Formatting(MCQs)",
+      "questions": [
+ 
+  
+  {
+    "questionNo": 1,
+    "question": [
+      "When should you use <b>bold</b> in academic writing?"
+    ],
+    "options": [
+      { "text": "For every adjective" },
+      { "text": "For section headings and key terms (first mention)" },
+      { "text": "For all proper nouns" },
+      { "text": "For every fifth word" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "Which example shows the correct use of <b>bold</b>?"
+    ],
+    "options": [
+      { "text": "The <b>quick brown </b>fox jumps." },
+      { "text": "<b>Artificial Intelligence</b> (section heading)" },
+      { "text": "I love <b>pizza</b> every day!" },
+      { "text": "The sky is <b>blue</b>." }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "Why should you avoid overusing <b>bold</b>?"
+    ],
+    "options": [
+      { "text": "It makes text invisible" },
+      { "text": "It's against copyright law" },
+      { "text": "It changes the meaning of words" },
+      { "text": "It reduces emphasis and creates visual clutter" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "How should you format a key term at first mention?"
+    ],
+    "options": [
+      { "text": "<i>Term </i>(italics)" },
+      { "text": "<b>Term</b> (bold)" },
+      { "text": "\"Term\" (quotes)" },
+      { "text": "Term (plain)" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "Which should <b>NOT</b> be bolded?"
+    ],
+    "options": [
+      { "text": "<b>Abstract</b> (section heading)" },
+      { "text": "The <b>hypothesis</b> was tested" },
+      { "text": "<b>All </b>verbs in a sentence" },
+      { "text": "<b>Discussion</b> (section heading)" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "Which title is formatted correctly?"
+    ],
+    "options": [
+      { "text": "\"Romeo and Juliet\" (play)" },
+      { "text": "Romeo and Juliet" },
+      { "text": "<i>Romeo and Juliet</i>" },
+      { "text": "ROMEO AND JULIET" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "When citing a journal article, what should be <i>italicised</i>?"
+    ],
+    "options": [
+      { "text": "Article title" },
+      { "text": "Journal name" },
+      { "text": "Author's name" },
+      { "text": "Page numbers" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "How should you format a foreign phrase?"
+    ],
+    "options": [
+      { "text": "\"raison d'être\" (quotes)" },
+      { "text": "raison d'être (plain)" },
+      { "text": "<b>raison d'être</b> (bold)" },
+      { "text": "<i>raison d'être</i> (italics)" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "Which movie title is correct?"
+    ],
+    "options": [
+      { "text": "\"The Dark Knight\"" },
+      { "text": "<i>The Dark Knight</i>" },
+      { "text": "The Dark Knight" },
+      { "text": "<b>The Dark Knight</b>" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "When should <i>italics</i> <b>NOT</b> be used?"
+    ],
+    "options": [
+      { "text": "Book titles" },
+      { "text": "Foreign words" },
+      { "text": "For general emphasis in formal writing" },
+      { "text": "Journal names in references" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "How would you format this sentence?<br><b>\"The word ______ comes from French.\"</b>"
+    ],
+    "options": [
+      { "text": "<i>cliché</i>" },
+      { "text": "\"cliché\"" },
+      { "text": "cliché" },
+      { "text": "<b>cliché</b>" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "Which reference entry is formatted correctly?"
+    ],
+    "options": [
+      { "text": "<i>Smith, J.</i> (2023). \"Study Methods\". Education Journal" },
+      { "text": "Smith, J. (2023). Study Methods. <i>Education Journal</i>" },
+      { "text": "Smith, J. (2023). <b>Study Methods</b>. \"Education Journal\"" },
+      { "text": "Smith, J. (<b>2023</b>). Study Methods. <b>Education Journal</b>" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "How are author names formatted in APA references?"
+    ],
+    "options": [
+      { "text": "First name first (e.g., John Smith)" },
+      { "text": "Last name first with initials (e.g., Smith, J.)" },
+      { "text": "Full first name with last initial (e.g., John S.)" },
+      { "text": "Only last names (e.g., Smith)" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "Where does the year appear in an APA citation?"
+    ],
+    "options": [
+      { "text": "After the article title" },
+      { "text": "Before the authors' names" },
+      { "text": "Immediately after the authors' names in parentheses" },
+      { "text": "At the end of the citation" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "What does <b>\"15(2)\"</b> represent in an APA journal citation?"
+    ],
+    "options": [
+      { "text": "Page numbers 15 to 2" },
+      { "text": "Volume 15, Issue 2" },
+      { "text": "15 authors, 2 pages" },
+      { "text": "15th edition, 2nd revision" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 16,
+    "question": [
+      "How are multiple authors joined in an APA citation?"
+    ],
+    "options": [
+      { "text": "With \"&\"" },
+      { "text": "With \"and\"" },
+      { "text": "With \"+\"" },
+      { "text": "With \",\"" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 17,
+    "question": [
+      "What is the purpose of a <b>DOI</b> in APA style?"
+    ],
+    "options": [
+      { "text": "To indicate the publisher" },
+      { "text": "To provide a permanent digital identifier" },
+      { "text": "To show the number of authors" },
+      { "text": "To identify the journal editor" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 18,
+    "question": [
+      "How would you cite this source in-text in APA: <b>(Smith & Johnson, 2021)</b>?"
+    ],
+    "options": [
+      { "text": "At the beginning of a paragraph" },
+      { "text": "After a direct quote or paraphrase" },
+      { "text": "Only in the reference list" },
+      { "text": "In the paper's footer" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 19,
+    "question": [
+      "In which situation would you use the proverb <b>“Among the blind, the one-eyed man is king”</b>?"
+    ],
+    "options": [
+      { "text": "When everyone is equally talented" },
+      { "text": "When a slightly skilled person stands out among unskilled people" },
+      { "text": "When a leader is very powerful" },
+      { "text": "When someone refuses to help others" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 20,
+    "question": [
+      "What is the main idea of the proverb <b>“An army of sheep led by a lion would defeat an army of lions led by a sheep”</b>?"
+    ],
+    "options": [
+      { "text": "Strength always wins" },
+      { "text": "Large groups are unbeatable" },
+      { "text": "Leadership determines success" },
+      { "text": "Animals are brave fighters" }
+    ],
+    "answer": 2
+  }
+
+
+
+]
+
+
+    }
+  ]
+}
